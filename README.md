@@ -1,1 +1,1 @@
-# IA-ML-e-Redes-Neurais
+# Iniciação Científica: Inteligência Artificial e Aprendizado de Máquina

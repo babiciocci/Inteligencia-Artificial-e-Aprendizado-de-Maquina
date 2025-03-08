@@ -60,7 +60,7 @@ Este projeto foi apresentado no **SICFEI** (Simpósio de Iniciação Científica
 
 ### 📊 Posters e Relatórios
 
-Durante o SICFEI, cada um dos membros da equipe preparou um **poster** e um **relatório** para expor o desenvolvimento do projeto. Esses materiais visam detalhar as metodologias, resultados e impactos do uso de algoritmos de Machine Learning no ensino de Física. Abaixo estão os links para os posters e relatórios individuais de cada participante:
+Durante o SICFEI, cada um dos membros preparou um **poster** e um **relatório** para expor o desenvolvimento do projeto. Esses materiais visam detalhar as metodologias, resultados e impactos do uso de algoritmos de Machine Learning no ensino de Física. Abaixo estão os links para os posters e relatórios individuais de cada participante:
 
 - **Poster e Relatório de Bruno Basso**:
   - [Poster](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/Poster_Bruno_SICFEI.pptx)

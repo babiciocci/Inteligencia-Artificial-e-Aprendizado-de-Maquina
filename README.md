@@ -54,6 +54,27 @@ Para auxiliar na compreensão deste projeto, disponibilizamos relatórios detalh
 
 🔗 [Gabriela Ciocci](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/Relato%CC%81rio_Parcial_Gabriela.docx)  
 
+## 📅 SICFEI - Simpósio de Iniciação Científica e Pesquisa em Engenharia
+
+Este projeto foi apresentado no **SICFEI** (Simpósio de Iniciação Científica e Pesquisa em Engenharia), um evento acadêmico que tem como objetivo compartilhar e divulgar pesquisas desenvolvidas por alunos de Iniciação Científica. Durante o evento, apresentamos o trabalho realizado no contexto do projeto de Machine Learning aplicado ao Laboratório de Física, com ênfase nas aplicações de **Árvore de Decisão** e **Rede Neural**.
+
+### 📊 Posters e Relatórios
+
+Durante o SICFEI, cada um dos membros da equipe preparou um **poster** e um **relatório** para expor o desenvolvimento do projeto. Esses materiais visam detalhar as metodologias, resultados e impactos do uso de algoritmos de Machine Learning no ensino de Física. Abaixo estão os links para os posters e relatórios individuais de cada participante:
+
+- **Poster e Relatório de Bruno Basso**:
+  - [Poster de Bruno Basso](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/Poster_Bruno_SICFEI.pptx)
+  - [Relatório de Bruno Basso](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/SICFEI_Bruno_Basso.pdf)
+
+- **Poster e Relatório de Gabriela Ciocci**:
+  - [Poster de Gabriela Ciocci](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/Poster_Gabriela_SICFEI.pdf)
+  - [Relatório de Gabriela Ciocci](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/SICFEI_Gabriela_Ciocci.pdf)
+
+Esses documentos oferecem uma visão detalhada do trabalho realizado e foram apresentados durante o evento para a comunidade acadêmica.
+
+---
+
+
 ## 📌 Conclusão
 
 Este projeto busca aproximar os alunos do universo da Inteligência Artificial, permitindo que utilizem Machine Learning para validar experimentos físicos. O uso de algoritmos de **Árvore de Decisão** e **Rede Neural**, aliado à coleta de dados eficiente, proporciona uma nova abordagem ao ensino de Física na Engenharia.

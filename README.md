@@ -23,13 +23,6 @@ Implementar algoritmos de Machine Learning para otimizar a compreensão de conce
 4. **Aplicação de Algoritmos de Machine Learning**: Implementação de **Árvore de Decisão** e **Rede Neural** para análise e previsão de resultados.
 5. **Comparação com Resultados Experimentais**: Avaliação da precisão dos modelos em relação aos valores obtidos no laboratório.
 
-## 📊 Benefícios
-
-✅ Aprendizado mais prático e eficiente para alunos de engenharia.\
-✅ Redução do tempo necessário para compreensão de conceitos complexos.\
-✅ Integração de Machine Learning ao ensino de Física.\
-✅ Geração de modelos preditivos com alto nível de precisão.
-
 ## 🖥️ CÓDIGO
 
 Os códigos completos para **Árvore de Decisão** e **Rede Neural** estão disponíveis no repositório para estudo e comparação. Ambos os códigos são acompanhados de explicações detalhadas em cada etapa da implementação.
@@ -37,6 +30,13 @@ Os códigos completos para **Árvore de Decisão** e **Rede Neural** estão disp
 - **Árvore de Decisão**: O código da Árvore de Decisão pode ser acessado [aqui](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/%C3%81rvoreDeDecis%C3%A3o.ipynb).
   
 - **Rede Neural**: O código da Rede Neural pode ser acessado [aqui](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/RedeNeural.ipynb).
+
+## 📊 Benefícios
+
+✅ Aprendizado mais prático e eficiente para alunos de engenharia.\
+✅ Redução do tempo necessário para compreensão de conceitos complexos.\
+✅ Integração de Machine Learning ao ensino de Física.\
+✅ Geração de modelos preditivos com alto nível de precisão.
 
 ## 📂 Relatórios e Documentação
 

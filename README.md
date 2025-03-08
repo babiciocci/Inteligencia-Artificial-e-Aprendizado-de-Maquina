@@ -34,8 +34,14 @@ Implementar algoritmos de Machine Learning para otimizar a compreensão de conce
 
 Para auxiliar na compreensão deste projeto, disponibilizamos relatórios detalhados no nosso repositório do GitHub. Esses documentos explicam cada etapa do processo, desde a aquisição de dados até a implementação dos algoritmos, permitindo que qualquer aluno possa replicar e entender o funcionamento do sistema.
 
+🔗 [Relatório Parcial - Gabriela](#)  
+🔗 [Relatório Parcial - Bruno Basso](#)
+
 ## 📌 Conclusão
 
 Este projeto busca aproximar os alunos do universo da Inteligência Artificial, permitindo que utilizem Machine Learning para validar experimentos físicos. O uso de algoritmos de **Árvore de Decisão** e **Rede Neural**, aliado à coleta de dados eficiente, proporciona uma nova abordagem ao ensino de Física na Engenharia.
 
 ---
+
+📩 **Contato:** Para mais informações, entre em contato com os responsáveis pelo projeto.
+

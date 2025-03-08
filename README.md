@@ -44,9 +44,9 @@ Para auxiliar na compreensão deste projeto, disponibilizamos relatórios detalh
 
 - Relatórios Pariais:
 
-🔗 [Bruno Basso](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/Relat%C3%B3rio_Parcial_BrunoBasso.pdf)
+🔗 [Bruno Basso](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/Relat%C3%B3rio_Parcial_Bruno.pdf)
 
-🔗 [Gabriela Ciocci](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/Relato%CC%81rio_Parcial_Gabriela.docx)  
+🔗 [Gabriela Ciocci](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/Relato%CC%81rio_Parcial_Gabriela.pdf)  
 
 - Relatórios Finais:
 

@@ -35,10 +35,12 @@ Implementar algoritmos de Machine Learning para otimizar a compreensão de conce
 Para auxiliar na compreensão deste projeto, disponibilizamos relatórios detalhados no nosso repositório do GitHub. Esses documentos explicam cada etapa do processo, desde a aquisição de dados até a implementação dos algoritmos, permitindo que qualquer aluno possa replicar e entender o funcionamento do sistema.
 
 - Relatórios Pariais:
+- 
 🔗 [Gabriela Ciocci](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/Relato%CC%81rio_Parcial_Gabriela.docx)  
 🔗 [Bruno Basso](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/Relat%C3%B3rio_Parcial_BrunoBasso.pdf)
 
 - Relatórios Pariais:
+- 
 🔗 [Gabriela Ciocci](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/Relato%CC%81rio_Parcial_Gabriela.docx)  
 🔗 [Bruno Basso](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/Relat%C3%B3rio_Parcial_BrunoBasso.pdf)
 

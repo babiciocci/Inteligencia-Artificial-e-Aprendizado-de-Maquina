@@ -36,7 +36,7 @@ Os códigos completos para **Árvore de Decisão** e **Rede Neural** estão disp
 
 - **Árvore de Decisão**: O código da Árvore de Decisão pode ser acessado [aqui](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/%C3%81rvoreDeDecis%C3%A3o.ipynb).
   
-- **Rede Neural**: O código da Rede Neural pode ser acessado [aqui](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/RN.ipynb).
+- **Rede Neural**: O código da Rede Neural pode ser acessado [aqui](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/RedeNeural.ipynb).
 
 ## 📂 Relatórios e Documentação
 

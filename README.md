@@ -1,4 +1,4 @@
-# 📌 Projeto de Iniciação Científica: Machine Learning Aplicado ao Laboratório de Física
+# 🎓 Projeto de Iniciação Científica: Machine Learning Aplicado ao Laboratório de Física
 
 ## 📖 Introdução
 

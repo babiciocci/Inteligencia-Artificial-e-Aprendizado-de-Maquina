@@ -30,6 +30,14 @@ Implementar algoritmos de Machine Learning para otimizar a compreensão de conce
 ✅ Integração de Machine Learning ao ensino de Física.\
 ✅ Geração de modelos preditivos com alto nível de precisão.
 
+## 🖥️ CÓDIGO
+
+Os códigos completos para **Árvore de Decisão** e **Rede Neural** estão disponíveis no repositório para estudo e comparação. Ambos os códigos são acompanhados de explicações detalhadas em cada etapa da implementação.
+
+- **Árvore de Decisão**: O código da Árvore de Decisão pode ser acessado [aqui](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/%C3%81rvoreDeDecis%C3%A3o.ipynb).
+  
+- **Rede Neural**: O código da Rede Neural pode ser acessado [aqui](https://github.com/babiciocci/Inteligencia-Artificial-e-Aprendizado-de-Maquina/blob/main/RN.ipynb).
+
 ## 📂 Relatórios e Documentação
 
 Para auxiliar na compreensão deste projeto, disponibilizamos relatórios detalhados no nosso repositório do GitHub. Esses documentos explicam cada etapa do processo, desde a aquisição de dados até a implementação dos algoritmos, permitindo que qualquer aluno possa replicar e entender o funcionamento do sistema.

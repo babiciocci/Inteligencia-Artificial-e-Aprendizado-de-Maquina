@@ -42,6 +42,3 @@ Para auxiliar na compreensão deste projeto, disponibilizamos relatórios detalh
 Este projeto busca aproximar os alunos do universo da Inteligência Artificial, permitindo que utilizem Machine Learning para validar experimentos físicos. O uso de algoritmos de **Árvore de Decisão** e **Rede Neural**, aliado à coleta de dados eficiente, proporciona uma nova abordagem ao ensino de Física na Engenharia.
 
 ---
-
-📩 **Contato:** Para mais informações, entre em contato com os responsáveis pelo projeto.
-
